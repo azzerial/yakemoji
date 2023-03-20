@@ -1,0 +1,9 @@
+|- link embed: SEO + OG preview
+|- responsive: scale preview and editor depending on viewport
+|- change canvas dimensions (custom sizes)
+|- move entity in canvas (custom position)
+|- custom patterns for certain emojis
+| `-> (ex. have the yak's body as a flag)
+|- when a part label is hovered, make the pixels blink
+|- editable background (full custom)
+`- highlight selected emoji (in pool)

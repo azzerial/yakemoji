@@ -44,4 +44,4 @@ jobs:
         with:
           project: azzerial-yakemoji
           root: dist
-          entrypoint: deno task serve
+          entrypoint: https://deno.land/std@0.157.0/http/file_server.ts
